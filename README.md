@@ -20,7 +20,6 @@ The challenge was easy, but I was able to improve my sass knowledge.
 
 ### Screenshot
 
-![](./public/imgs/screenshot-mobile.png)
 ![](./public/imgs/screenshot.png)
 ### Links
 
